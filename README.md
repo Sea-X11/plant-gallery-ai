@@ -77,11 +77,7 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Additional Notes
 
-- **Sample Images:**  
-  If you wish to add your own sample images, you can create an `assets/` folder in the repository and update the links in the "Screenshots" section accordingly.
-  
 - **Feedback:**  
   For feedback or support, please open an issue or contact the maintainer.
 
