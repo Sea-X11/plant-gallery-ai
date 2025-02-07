@@ -1,5 +1,5 @@
 # plant-gallery-ai 
-Plant-Gallery-ai uses React, Tauri, and Next.js to create a web-based plant image gallery packaged as an Android APK.  The app allows users to browse the gallery, search for plants, and get AI-driven recommendations from text or image input
+Plant-Gallery-ai uses React and Next.js to create a web-based plant image gallery, and is packaged as an Android APK using Tauri.  The app allows users to browse the gallery, search for plants, and get AI-driven recommendations from text or image input
 
 ## Features
 
@@ -8,9 +8,6 @@ Plant-Gallery-ai uses React, Tauri, and Next.js to create a web-based plant imag
 
 - **AI-Powered Recommendations:**  
   Get personalized plant recommendations using AI, based on search queries or images you upload.
-
-- **Image Upload & Analysis:**  
-  Upload images to receive tailored plant suggestions. The app tracks upload progress and provides feedback.
 
 - **Responsive and Interactive UI:**  
   A sleek user interface built with modern web technologies, ensuring smooth navigation and viewing experience.
@@ -34,10 +31,8 @@ Plant-Gallery-ai uses React, Tauri, and Next.js to create a web-based plant imag
 
 - **Node.js** (>= 14.x)
 - **Rust & Cargo** (for Tauri)
-- **Tauri CLI:** Install via Cargo:
-  ```bash
-  cargo install tauri-cli
-  ```
+- **Tauri CLI:** 
+
 
 ### Installation
 
@@ -63,23 +58,17 @@ Plant-Gallery-ai uses React, Tauri, and Next.js to create a web-based plant imag
 
 4. **Start Tauri in Development Mode:**
    ```bash
-   tauri dev
+   npm install -D @tauri-apps/cli@latest
+   npm run tauri dev
    ```
-
 ### Building the APK
 
-1. **Build the Frontend:**
+5. **Build the Tauri APK:**
    ```bash
-   npm run build
-   # or
-   yarn build
+   npm run tauri android dev
+   npm run tauri android build
    ```
 
-2. **Build the Tauri APK:**
-   ```bash
-   tauri build
-   ```
-   The output APK file will be located in the `src-tauri/target/` directory.
 
 ## Project Structure
 
