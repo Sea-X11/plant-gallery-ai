@@ -22,14 +22,6 @@ Plant-Gallery-ai uses React and Next.js to create a web-based plant image galler
 *Screenshot showing the AI-powered plant recommendations.*
 ![AI Recommendation Example](https://github.com/Sea-X11/plant-gallery-ai/blob/main/assets/%20AI-powered%20plant%20recommendations.png )
 
-## Screenshots
-*Screenshot of the Plant Gallery AI home screen.*  
-<img src="https://github.com/Sea-X11/plant-gallery-ai/blob/main/assets/home-screen.png?raw=true" alt="Plant Gallery Home" style="transform: scale(0.4);"/>
-
-
-*Screenshot showing the AI-powered plant recommendations.*  
-<img src="https://github.com/Sea-X11/plant-gallery-ai/blob/main/assets/%20AI-powered%20plant%20recommendations.png?raw=true" alt="AI Recommendation Example" width="400"/>
-
 
 ## Getting Started
 
@@ -96,17 +88,3 @@ This project is licensed under the [MIT License](LICENSE).
 Enjoy exploring and contributing to **Plant Gallery AI**!
 ```
 
----
-
-### Explanation
-
-- **Screenshots Section:**  
-  The sample image links use placeholder URLs (`via.placeholder.com`). Replace these with your actual image paths once you upload your images. One common approach is to add the images to an `assets` folder in your repository and reference them using relative paths (e.g., `assets/screenshot1.png`).
-
-- **Project Structure:**  
-  The structure provides clarity on where the frontend, Tauri backend, and assets reside.
-
-- **Installation and Build Instructions:**  
-  Clear steps guide the user from cloning the repository to running and building the application.
-
-Feel free to modify or extend the README to better suit your project's needs.
