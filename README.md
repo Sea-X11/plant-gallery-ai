@@ -22,6 +22,13 @@ Plant-Gallery-ai uses React and Next.js to create a web-based plant image galler
 *Screenshot showing the AI-powered plant recommendations.*
 ![AI Recommendation Example](https://github.com/Sea-X11/plant-gallery-ai/blob/main/assets/%20AI-powered%20plant%20recommendations.png )
 
+## Screenshots
+*Screenshot of the Plant Gallery AI home screen.*  
+<img src="https://github.com/Sea-X11/plant-gallery-ai/blob/main/assets/home-screen.png?raw=true" alt="Plant Gallery Home" width="400"/>
+
+*Screenshot showing the AI-powered plant recommendations.*  
+<img src="https://github.com/Sea-X11/plant-gallery-ai/blob/main/assets/%20AI-powered%20plant%20recommendations.png?raw=true" alt="AI Recommendation Example" width="400"/>
+
 
 ## Getting Started
 
