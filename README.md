@@ -73,8 +73,7 @@ Plant-Gallery-ai uses React and Next.js to create a web-based plant image galler
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. For any issues or feature requests, open an issue on GitHub.
 
-- **Feedback:**  
-  For feedback or support, please open an issue or contact the maintainer.
+For feedback or support, please open an issue or contact the maintainer.
 
 Enjoy exploring and contributing to **Plant Gallery AI**!
 
