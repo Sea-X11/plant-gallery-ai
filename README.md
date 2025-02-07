@@ -86,5 +86,3 @@ This project is licensed under the [MIT License](LICENSE).
   For feedback or support, please open an issue or contact the maintainer.
 
 Enjoy exploring and contributing to **Plant Gallery AI**!
-```
-
