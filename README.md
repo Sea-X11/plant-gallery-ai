@@ -16,12 +16,12 @@ Plant-Gallery-ai uses React and Next.js to create a web-based plant image galler
   The web application is packaged into an Android APK using Tauri, combining the ease of web development with native mobile performance.
 
 ## Screenshots
+*Screenshot of the Plant Gallery AI home screen.*
+![Plant Gallery Home](https://github.com/Sea-X11/plant-gallery-ai/blob/main/assets/home-screen)
 
-![Plant Gallery Home](https://github.com/Sea-X11/plant-gallery-ai/blob/main/assets/home-screen.png)
-*Screenshot of the Plant Gallery home screen.*
-
-![AI Recommendation Example](https://github.com/Sea-X11/plant-gallery-ai/blob/main/assets/%20AI-powered%20plant%20recommendations.png )
 *Screenshot showing the AI-powered plant recommendations.*
+![AI Recommendation Example](https://github.com/Sea-X11/plant-gallery-ai/blob/main/assets/%20AI-powered%20plant%20recommendations.png )
+
 
 ## Getting Started
 
