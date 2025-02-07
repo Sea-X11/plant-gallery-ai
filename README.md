@@ -30,7 +30,7 @@ Plant-Gallery-ai uses React and Next.js to create a web-based plant image galler
 ### Prerequisites
 
 - **Node.js** (>= 14.x)
-- **Rust* (for Tauri)
+- **Rust**(for Tauri)
 - **Tauri CLI**
 
 
